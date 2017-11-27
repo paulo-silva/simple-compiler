@@ -1,0 +1,22 @@
+{
+  "name": "compilador-v3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "compilador.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pauloh-silva/simple-compiler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pauloh-silva/simple-compiler/issues"
+  },
+  "homepage": "https://github.com/pauloh-silva/simple-compiler#readme",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
